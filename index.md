@@ -31,8 +31,7 @@ layout: default
 
 * [同一ディレクトリ内のページへのリンク](another-page)
 * [外部サイトへのリンク](http://www.ibm.com/)
-
-
+https://sayanana.github.io/docs/#header-1
 
 ### ホワイト・スペース 
 
